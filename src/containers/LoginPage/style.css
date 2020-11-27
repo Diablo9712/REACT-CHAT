@@ -1,0 +1,21 @@
+.loginContainer, .registerContainer{
+    width: 600px;
+    position: relative;
+    margin: 50px auto;
+}
+
+.textt{
+    height: 30px;
+    width:550px;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+.btn{
+    
+    height: 50px;
+    width:150px;
+    margin: 10px;
+    background-color: blue;
+    color: blanchedalmond;
+}
